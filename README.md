@@ -15,7 +15,7 @@ Introduction to Web Development
 |           | Class 01                                                                          | Class 02                                                                      |
 | --------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Page      | [Link](https://byte-serido-jr-class-01.vercel.app/)                               | [Link](#)                                                                     |
-| Code      | [Link](https://github.com/byte-serido/front-end-class/tree/main/aula_01)          | [Link](./classes/02/ByteSeridoClasses/examples/react)                         |
+| Code      | [Link](./classes/01/)                                                             | [Link](./classes/02/)                                                         |
 | Recording | [Link](https://mega.nz/file/Ks0GxDbC#ek1pCxmli2ceNHWX1zLwYhpakKc7TdzfGqWa4lLQwnQ) | [Link](#)                                                                     |
 | Notion©   | [Link](https://www.notion.so/zauhdf/Aula-01-45c2c4a4532440f7892c66fe0c59097d)     | [Link](https://www.notion.so/zauhdf/Aula-02-4282c7903666480c8ddc8350fbf1a003) |
 
