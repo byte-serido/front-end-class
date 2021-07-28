@@ -12,12 +12,15 @@
 
 Introduction to Web Development
 
-|           | Class 01                                                                          | Class 02                                                                      |
-| --------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Page      | [Link](https://byte-serido-jr-class-01.vercel.app/)                               | [Link](#)                                                                     |
-| Code      | [Link](./classes/01/)                                                             | [Link](./classes/02/)                                                         |
-| Recording | [Link](https://mega.nz/file/Ks0GxDbC#ek1pCxmli2ceNHWX1zLwYhpakKc7TdzfGqWa4lLQwnQ) | [Link](#)                                                                     |
-| Notion©   | [Link](https://www.notion.so/zauhdf/Aula-01-45c2c4a4532440f7892c66fe0c59097d)     | [Link](https://www.notion.so/zauhdf/Aula-02-4282c7903666480c8ddc8350fbf1a003) |
+## React
+
+|               | Class 01                                                                          | Class 02                                                                          | Class 03                                                                          |
+| ------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Theme**     | Introduction to React                                                             | useState & useEffect                                                               | context-api                                                                       |
+| **Page**      | [Link](https://byte-serido-jr-class-01.vercel.app/)                               | [Link](#)                                                                         | [Link](#)                                                                         |
+| **Code**      | [Link](./classes/01/)                                                             | [Link](./classes/02/)                                                             | [Link](./classes/03/)                                                             |
+| **Recording** | [Link](https://mega.nz/file/mtFnzAJI#J2CWcXDZvXNJX1prvjo7koGWtv1Z87horVgxxL6hkFM) | [Link](https://mega.nz/file/n4chlYJI#eIjh5r2p0CMfbxzjxAjm1ZboooeBmsU5rkMzgmXeLwU) | [Link](https://mega.nz/file/e9Ux2ISA#54FsXhwOTVq4nPf1GJ8VfdMTGiXfUOUmQbbXfubNhmg) |
+| **Notion©**   | [Link](https://zauhdf.notion.site/Aula-01-45c2c4a4532440f7892c66fe0c59097d)       | [Link](https://zauhdf.notion.site/Aula-02-4282c7903666480c8ddc8350fbf1a003)       | [Link](https://zauhdf.notion.site/Aula-03-e5bd9ae951464a659f969fd15a50fe1e)       |
 
 ## Made by
 
