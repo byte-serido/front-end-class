@@ -4,3 +4,6 @@
 [submodule "classes/03/ByteSeridoClasses"]
 	path = classes/03/ByteSeridoClasses
 	url = https://github.com/ZauJulio/ByteSeridoClasses.git
+[submodule "classes/04/ByteSeridoClasses"]
+	path = classes/04/ByteSeridoClasses
+	url = https://github.com/ZauJulio/ByteSeridoClasses.git
